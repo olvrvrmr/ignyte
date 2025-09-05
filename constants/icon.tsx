@@ -6,7 +6,7 @@ export const icon: {[key: string]: (props: any) => JSX.Element} = {
         <Feather name='home' size={24} {...props} />
     ),
     explore: (props: any) => (
-        <Feather name='compass' size={24} {...props} />
+        <Feather name='feather' size={24} {...props} />
     ),
     profile: (props: any) => (
         <Feather name='user' size={24} {...props} />
